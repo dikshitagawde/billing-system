@@ -2,7 +2,7 @@
 
 $localhost = "localhost";
 $username = "root";
-$password = "";
+$password = "YXe5+9xyIqZU";
 $dbname = "store1";
 $store_url = "http://localhost/php-inventory/";
 // db connection
